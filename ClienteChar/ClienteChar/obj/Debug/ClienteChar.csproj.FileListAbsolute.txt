@@ -1,0 +1,10 @@
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\bin\Debug\ClienteChar.exe.config
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\bin\Debug\ClienteChar.exe
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\bin\Debug\ClienteChar.pdb
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\obj\Debug\ClienteChar.csproj.AssemblyReference.cache
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\obj\Debug\ClienteChar.Form1.resources
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\obj\Debug\ClienteChar.Properties.Resources.resources
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\obj\Debug\ClienteChar.csproj.GenerateResource.cache
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\obj\Debug\ClienteChar.csproj.CoreCompileInputs.cache
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\obj\Debug\ClienteChar.exe
+C:\Users\fabricio\source\repos\ClienteChar\ClienteChar\obj\Debug\ClienteChar.pdb
