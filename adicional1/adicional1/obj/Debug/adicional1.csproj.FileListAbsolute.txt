@@ -1,0 +1,10 @@
+C:\Users\fabricio\source\repos\adicional1\adicional1\bin\Debug\adicional1.exe.config
+C:\Users\fabricio\source\repos\adicional1\adicional1\bin\Debug\adicional1.exe
+C:\Users\fabricio\source\repos\adicional1\adicional1\bin\Debug\adicional1.pdb
+C:\Users\fabricio\source\repos\adicional1\adicional1\obj\Debug\adicional1.csproj.AssemblyReference.cache
+C:\Users\fabricio\source\repos\adicional1\adicional1\obj\Debug\adicional1.Form1.resources
+C:\Users\fabricio\source\repos\adicional1\adicional1\obj\Debug\adicional1.Properties.Resources.resources
+C:\Users\fabricio\source\repos\adicional1\adicional1\obj\Debug\adicional1.csproj.GenerateResource.cache
+C:\Users\fabricio\source\repos\adicional1\adicional1\obj\Debug\adicional1.csproj.CoreCompileInputs.cache
+C:\Users\fabricio\source\repos\adicional1\adicional1\obj\Debug\adicional1.exe
+C:\Users\fabricio\source\repos\adicional1\adicional1\obj\Debug\adicional1.pdb
