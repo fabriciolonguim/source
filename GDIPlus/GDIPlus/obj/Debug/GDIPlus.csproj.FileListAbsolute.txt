@@ -1,0 +1,10 @@
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe.config
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\bin\Debug\GDIPlus.pdb
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.AssemblyReference.cache
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Form1.resources
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Properties.Resources.resources
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.GenerateResource.cache
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.CoreCompileInputs.cache
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\obj\Debug\GDIPlus.exe
+C:\Users\fabricio\source\repos\GDIPlus\GDIPlus\obj\Debug\GDIPlus.pdb
