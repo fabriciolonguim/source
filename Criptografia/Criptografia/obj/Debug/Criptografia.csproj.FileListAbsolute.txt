@@ -1,0 +1,10 @@
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.AssemblyReference.cache
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\obj\Debug\Criptografia.Criptografia.resources
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\fabricio\source\repos\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
