@@ -1,0 +1,10 @@
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\bin\Debug\Imprimir.exe.config
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\bin\Debug\Imprimir.exe
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\bin\Debug\Imprimir.pdb
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.AssemblyReference.cache
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\obj\Debug\Imprimir.Form1.resources
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\obj\Debug\Imprimir.Properties.Resources.resources
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.GenerateResource.cache
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.CoreCompileInputs.cache
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\obj\Debug\Imprimir.exe
+C:\Users\fabricio\source\repos\Imprimir\Imprimir\obj\Debug\Imprimir.pdb
