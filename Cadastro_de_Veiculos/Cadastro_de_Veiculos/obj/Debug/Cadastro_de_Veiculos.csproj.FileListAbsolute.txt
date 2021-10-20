@@ -1,0 +1,10 @@
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\bin\Debug\Cadastro_de_Veiculos.exe.config
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\bin\Debug\Cadastro_de_Veiculos.exe
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\bin\Debug\Cadastro_de_Veiculos.pdb
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\obj\Debug\Cadastro_de_Veiculos.Properties.Resources.resources
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\obj\Debug\Cadastro_de_Veiculos.csproj.GenerateResource.cache
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\obj\Debug\Cadastro_de_Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\obj\Debug\Cadastro_de_Veiculos.exe
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\obj\Debug\Cadastro_de_Veiculos.pdb
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\obj\Debug\Cadastro_de_Veiculos.Form1.resources
+C:\Users\fabricio\source\repos\Cadastro_de_Veiculos\Cadastro_de_Veiculos\obj\Debug\Cadastro_de_Veiculos.csproj.AssemblyReference.cache

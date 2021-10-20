@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Veiculo" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Veiculo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+                <xs:element name="Placa" type="xs:string" minOccurs="0" />
+                <xs:element name="Descricao" type="xs:string" minOccurs="0" />
+                <xs:element name="Marca" type="xs:string" minOccurs="0" />
+                <xs:element name="Media" type="xs:double" minOccurs="0" />
+                <xs:element name="Quilometragem" type="xs:double" minOccurs="0" />
+                <xs:element name="Qta_x0020_de_x0020_Combustivel" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Veiculo>
+    <Id>1</Id>
+    <Placa>mtn9946</Placa>
+    <Descricao>Celta</Descricao>
+    <Marca>Chevrolet</Marca>
+    <Media>12</Media>
+    <Quilometragem>35028</Quilometragem>
+    <Qta_x0020_de_x0020_Combustivel>24</Qta_x0020_de_x0020_Combustivel>
+  </Veiculo>
+  <Veiculo>
+    <Id>2</Id>
+    <Placa>bkb6248</Placa>
+    <Descricao>gol</Descricao>
+    <Marca>Volkswagen</Marca>
+    <Media>7</Media>
+    <Quilometragem>170000</Quilometragem>
+    <Qta_x0020_de_x0020_Combustivel>10</Qta_x0020_de_x0020_Combustivel>
+  </Veiculo>
+  <Veiculo>
+    <Id>3</Id>
+    <Placa>bto4280</Placa>
+    <Descricao>Opala</Descricao>
+    <Marca>Chevrolet</Marca>
+    <Media>4</Media>
+    <Quilometragem>450008</Quilometragem>
+    <Qta_x0020_de_x0020_Combustivel>28</Qta_x0020_de_x0020_Combustivel>
+  </Veiculo>
+  <Veiculo>
+    <Id>4</Id>
+    <Placa>bkb9271</Placa>
+    <Descricao>Gol</Descricao>
+    <Marca>Volkswagen</Marca>
+    <Media>10</Media>
+    <Quilometragem>250380</Quilometragem>
+    <Qta_x0020_de_x0020_Combustivel>18</Qta_x0020_de_x0020_Combustivel>
+  </Veiculo>
+</NewDataSet>
