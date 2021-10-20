@@ -1,0 +1,10 @@
+C:\Users\fabri\source\repos\Prova1\bin\Debug\Prova1.exe.config
+C:\Users\fabri\source\repos\Prova1\bin\Debug\Prova1.exe
+C:\Users\fabri\source\repos\Prova1\bin\Debug\Prova1.pdb
+C:\Users\fabri\source\repos\Prova1\obj\Debug\Prova1.csprojAssemblyReference.cache
+C:\Users\fabri\source\repos\Prova1\obj\Debug\Prova1.Form1.resources
+C:\Users\fabri\source\repos\Prova1\obj\Debug\Prova1.Properties.Resources.resources
+C:\Users\fabri\source\repos\Prova1\obj\Debug\Prova1.csproj.GenerateResource.cache
+C:\Users\fabri\source\repos\Prova1\obj\Debug\Prova1.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\Prova1\obj\Debug\Prova1.exe
+C:\Users\fabri\source\repos\Prova1\obj\Debug\Prova1.pdb
